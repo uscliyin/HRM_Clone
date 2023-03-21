@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using ApplicationCore.Entities;
 
 namespace ApplicationCore.Models
 {
@@ -23,5 +24,7 @@ namespace ApplicationCore.Models
         public DateTime StartDate { get; set; }
         [Required(ErrorMessage = "Please enter number")]
         public int NumberOfPostions { get; set; }
+
+        public int JobStatusLookUpId { get; set; }
     }
 }

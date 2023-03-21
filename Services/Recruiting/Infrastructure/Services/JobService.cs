@@ -29,7 +29,7 @@ namespace Infrastructure.Services
                 Description = model.Description,
                 CreatedOn = DateTime.UtcNow,
                 NumberOfPositions = model.NumberOfPostions,
-                JobStatusLookUpId = 1
+                JobStatusLookUpId = model.JobStatusLookUpId,
 
             };
             var job=await _jobRepository.AddAsync(jobEntity); 
