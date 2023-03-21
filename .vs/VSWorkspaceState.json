@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Services",
+    "\\Services\\Recruiting",
+    "\\Services\\Recruiting\\ApplicationCore",
+    "\\Services\\Recruiting\\ApplicationCore\\Entities",
+    "\\Services\\Recruiting\\Infrastructure",
+    "\\Services\\Recruiting\\Infrastructure\\Data",
+    "\\Services\\Recruiting\\Infrastructure\\Migrations",
+    "\\Services\\Recruiting\\Infrastructure\\Repositories",
+    "\\Services\\Recruiting\\RecruitingWeb"
+  ],
+  "SelectedNode": "\\Services\\Recruiting\\Infrastructure\\Data\\RecruitingDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
