@@ -74,18 +74,40 @@ namespace Infrastructure.Services
             
         }
 
-        public async Task <JobResponseModel> GetJobById(int id)
-        {
-            var job=await _jobRepository.GetJobById(id);
-            var jobResponseModel=new JobResponseModel {
+        //public async Task <JobResponseModel> GetJobById(int id)
+        //{
+        //    var job=await _jobRepository.GetJobById(id);
+        //    var jobResponseModel=new JobResponseModel {
 
-                Id = job.Id,
-                Description = job.Description,
+        //        Id = job.Id,
+        //        Description = job.Description,
+        //        Title = job.Title,
+        //        StartDate = job.StartDate.GetValueOrDefault(),
+        //        NumberOfPositions = job.NumberOfPositions
+        //    };
+        //    return jobResponseModel;
+        //}
+
+        public async Task<JobDetails> GetJobById(int id)
+        {
+            var job = await _jobRepository.GetJobById(id);
+            if (job == null)
+            {
+                return null;
+            }
+            var jobDetails = new JobDetails
+            {
+                Id= job.Id,
+                JobCode = job.JobCode,
+                NumberOfPositions = job.NumberOfPositions,
+                Description= job.Description,
                 Title = job.Title,
                 StartDate = job.StartDate.GetValueOrDefault(),
-                NumberOfPositions = job.NumberOfPositions
+                IsActive= job.IsActive,
+                CreatedOn= job.CreatedOn.GetValueOrDefault(),
+                
             };
-            return jobResponseModel;
+            return jobDetails;
         }
     }
 }
