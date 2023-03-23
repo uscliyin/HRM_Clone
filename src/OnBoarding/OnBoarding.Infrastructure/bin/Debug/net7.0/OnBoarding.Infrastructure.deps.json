@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OnBoarding.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OnBoarding.ApplicationCore": "1.0.0"
+        },
+        "runtime": {
+          "OnBoarding.Infrastructure.dll": {}
+        }
+      },
+      "OnBoarding.ApplicationCore/1.0.0": {
+        "runtime": {
+          "OnBoarding.ApplicationCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnBoarding.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnBoarding.ApplicationCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

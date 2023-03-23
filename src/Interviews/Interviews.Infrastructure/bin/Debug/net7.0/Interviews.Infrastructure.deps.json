@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Interviews.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Interviews.ApplicationCore": "1.0.0"
+        },
+        "runtime": {
+          "Interviews.Infrastructure.dll": {}
+        }
+      },
+      "Interviews.ApplicationCore/1.0.0": {
+        "runtime": {
+          "Interviews.ApplicationCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interviews.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interviews.ApplicationCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

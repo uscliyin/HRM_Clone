@@ -1,0 +1,15 @@
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\bin\Debug\net7.0\OnBoarding.Infrastructure.deps.json
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\bin\Debug\net7.0\OnBoarding.Infrastructure.dll
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\bin\Debug\net7.0\OnBoarding.Infrastructure.pdb
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\OnBoarding.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\OnBoarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\OnBoarding.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\OnBoarding.Infrastructure.AssemblyInfo.cs
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\OnBoarding.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\OnBoarding.Infrastructure.dll
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\refint\OnBoarding.Infrastructure.dll
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\OnBoarding.Infrastructure.pdb
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\ref\OnBoarding.Infrastructure.dll
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\bin\Debug\net7.0\OnBoarding.ApplicationCore.dll
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\bin\Debug\net7.0\OnBoarding.ApplicationCore.pdb
+C:\Users\91908\source\repos\HRM\src\OnBoarding\OnBoarding.Infrastructure\obj\Debug\net7.0\OnBoarding.Infrastructure.csproj.CopyComplete

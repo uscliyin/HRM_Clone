@@ -1,0 +1,12 @@
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\bin\Debug\net7.0\Interviews.ApplicationCore.deps.json
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\bin\Debug\net7.0\Interviews.ApplicationCore.dll
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\bin\Debug\net7.0\Interviews.ApplicationCore.pdb
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\Interviews.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\Interviews.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\Interviews.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\Interviews.ApplicationCore.AssemblyInfo.cs
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\Interviews.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\Interviews.ApplicationCore.dll
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\refint\Interviews.ApplicationCore.dll
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\Interviews.ApplicationCore.pdb
+C:\Users\91908\source\repos\HRM\src\Interviews\Interviews.ApplicationCore\obj\Debug\net7.0\ref\Interviews.ApplicationCore.dll

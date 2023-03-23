@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Interviews.ApplicationCore/1.0.0": {
+        "runtime": {
+          "Interviews.ApplicationCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interviews.ApplicationCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
